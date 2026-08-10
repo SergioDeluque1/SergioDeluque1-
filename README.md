@@ -1,7 +1,7 @@
 # Print("Hi there!")
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
-[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sergio-delúquez-7960a5369)
+[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/SergioDeluque1) 
 
 My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAFIT university. When I am not studying or programming, I play music on various instruments (and choir). I like to read about all sorts of topics including personal improvement and history. I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. 
 
