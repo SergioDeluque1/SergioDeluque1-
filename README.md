@@ -62,7 +62,6 @@ My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAF
 
 
 ### 💭 Ask me about
-- 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 - Astronomy 🔭
 - Blockchain ⛓
 - Design 🎨
