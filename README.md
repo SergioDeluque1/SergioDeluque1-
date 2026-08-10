@@ -45,6 +45,9 @@ I am currently coordinator of the organization *Elas@computação* and monitor t
 - Build 30+ projects.
 - Contribute to Open Source.
 
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+
 ### 💭 Ask me about
 - Astronomy 🔭
 - Blockchain ⛓
@@ -164,7 +167,7 @@ I am currently coordinator of the organization *Elas@computação* and monitor t
 
 
 
-<!-- JOEY Bling$$ -->
+<!-- JOEY Bling$$ 
 
 ## Hello GitHub Fans 👋
 [![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
@@ -216,4 +219,4 @@ I am currently coordinator of the organization *Elas@computação* and monitor t
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+⭐️ From [JoeyBling](https://github.com/JoeyBling) -->
