@@ -115,7 +115,7 @@ I am Sergio Delúquez, Computer Science Student at EAFIT university
 -->
 ---
 
-<!-- ⭐️ From [JeanCarlos911](https://github.com/JeanCarlos911) -->
+<!-- ⭐️ From [JeanCarlos911](https://github.com/JeanCarlos911)
 
 <div align="center"><img alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif" /></div>
 
@@ -126,7 +126,7 @@ I am Sergio Delúquez, Computer Science Student at EAFIT university
   
   [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos911&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-
+-->
 Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
 
 ### ✔️ I'm currently learning
