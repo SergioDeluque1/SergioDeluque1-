@@ -37,9 +37,6 @@ My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAF
 - Build 30+ projects.
 - Contribute to Open Source.
 
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
 ### 💭 Ask me about
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 - Astronomy 🔭
@@ -102,6 +99,9 @@ My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAF
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 <!--
 
