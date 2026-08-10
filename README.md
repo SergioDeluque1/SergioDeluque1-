@@ -37,6 +37,7 @@ My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAF
 - Build 30+ projects.
 - Contribute to Open Source.
 
+---
 
 ## Languages
 
