@@ -1,4 +1,4 @@
-# Print("Hi there!")
+Welcome to my GitHub!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sergio-delúquez-7960a5369)
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/SergioDeluque1) 
