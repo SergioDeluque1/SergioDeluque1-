@@ -54,8 +54,6 @@ I am Sergio Delúquez, Computer Science Student at EAFIT university
 
 [<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-[<img align="left" alt="Tamim Ehsan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="tamim.ehsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="TamimEhsan | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
 <br /> 
@@ -103,10 +101,4 @@ I am Sergio Delúquez, Computer Science Student at EAFIT university
 | <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | - | Dhaka Regionals <br /> Team:BUET_INVERSE <br /> Rank: 121/1003 | - | - |
 | <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Max Rank | 1651 <br />  ![](https://img.shields.io/badge/-Expert-3262a8?style=flat)  | 1925 <br /> ![](https://img.shields.io/badge/-Candidate%20Master-a832a8?style=flat) | - | - |
 
-
-⭐️ From [TamimEhsan](https://github.com/TamimEhsan)
-
-[website]: https://tamimehsan.github.io/
-[instagram]: https://instagram.com/tamim.ehsan
-[facebook]: https://www.facebook.com/tamimul.ehsan.9/
 [codeforces]:https://codeforces.com/profile/TamimEhsan
