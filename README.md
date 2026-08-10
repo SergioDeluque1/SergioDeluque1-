@@ -28,7 +28,7 @@ I am currently coordinator of the organization *Elas@computação* and monitor t
 ### ✔️ I'm currently learning
 - Data engineering
 - ML pipeline and model development
-- Implementing Monte Carlo & walk-forward testing
+- Monte Carlo & walk-forward testing
 - Devops
 
 ### 💻 I'm working on
