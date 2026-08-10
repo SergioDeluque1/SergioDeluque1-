@@ -1,6 +1,6 @@
 # Print("Hi there!")
 
-My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAFIT university. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. I am currently coordinator of the organization *Elas@computação* and monitor the graph theory discipline. I am completely passionate about frontend development, graphs and also very interested in data analysis. I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends 
+My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAFIT university. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. I am currently coordinator of the organization *Elas@computação* and monitor the graph theory discipline.
 
 
 <!--
@@ -13,14 +13,10 @@ My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAF
 
 -->
 
-- 💬 Ask me about programming in general, I am always <br> available to help and learn together.
-
-
 <!--
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Leandra#1163 </a>
 -->
-- 👯 I’m looking to collaborate on opensource and group projects.
 
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
@@ -46,6 +42,7 @@ My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAF
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 ### 💭 Ask me about
+- 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 - Astronomy 🔭
 - Blockchain ⛓
 - Design 🎨
@@ -56,9 +53,6 @@ My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAF
 
 ### ⚡ Relevant achievement
 - Enter the Francisco José de Caldas district university at a very low cost
-
-### 🛠 Interested in:
-- Desktop, mobile, fronted, devOps, games, designer.
   
 ### 🌴 Fun facts
 - Trying to explore the mysteries.
