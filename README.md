@@ -1,6 +1,6 @@
 # Print("Hi there!")
 
-My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAFIT university. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. I am currently coordinator of the organization *Elas@computação* and monitor the graph theory discipline. I am completely passionate about frontend development, graphs and also very interested in data analysis. I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends <img height ="20" src= 
+My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAFIT university. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. I am currently coordinator of the organization *Elas@computação* and monitor the graph theory discipline. I am completely passionate about frontend development, graphs and also very interested in data analysis. I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends 
 
 
 <!--
