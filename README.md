@@ -83,6 +83,8 @@ I am Sergio Delúquez, Computer Science Student at EAFIT university
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
+<!--
+
 ## Live Projects
 
 [![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
