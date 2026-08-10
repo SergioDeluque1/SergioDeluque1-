@@ -137,7 +137,7 @@ My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAF
 
 
 -->
----
+
 
 <!-- ⭐️ From [JeanCarlos911](https://github.com/JeanCarlos911)
 
@@ -151,7 +151,7 @@ My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAF
   [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos911&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 -->
---- 
+
 <!-- leandra Olivera's template -->
 
 
