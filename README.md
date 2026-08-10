@@ -32,8 +32,9 @@ I am currently coordinator of the organization *Elas@computação* and monitor t
 - Devops
 
 ### 💻 I'm working on
-- My portfolio website.
-- Stopmotion Creator
+- My portfolio website
+- ML fine-tuning
+- Fullstack certification
 
 ### 🌱 Goals for 2026
 - Complete #100DaysOfCode challenge.
