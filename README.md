@@ -53,15 +53,16 @@ I am Sergio Delúquez, Computer Science Student at EAFIT university
 [![HitCount](http://hits.dwyl.com/TamimEhsan/TamimEhsan.svg)](http://hits.dwyl.com/TamimEhsan/TamimEhsan)
  <img src="https://komarev.com/ghpvc/?username=TamimEhsan">
 
-
+<!--
  ## Connect with me:
 
 [<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="TamimEhsan | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
 <br /> 
 
+-->
 ## Languages
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
