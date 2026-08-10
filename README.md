@@ -3,7 +3,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
 
-My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAFIT university. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. I am currently coordinator of the organization *Elas@computação* and monitor the graph theory discipline.
+My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAFIT university. When I am not studying or programming, I play music on various instruments (and choir). I like to read about all sorts of topics including personal improvement and history. I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. 
+
+<!--
+I am currently coordinator of the organization *Elas@computação* and monitor the graph theory discipline.
 
 
 <!--
@@ -65,19 +68,19 @@ My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAF
 - Astronomy 🔭
 - Blockchain ⛓
 - Design 🎨
-- and anything...
 
 ### 😍 What i like to do:
-- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
+- I like challenges, learning, Logical problems, helping, sharing and living !!!
 
+<!--
 ### ⚡ Relevant achievement
 - Enter the Francisco José de Caldas district university at a very low cost
-  
+
 ### 🌴 Fun facts
 - Trying to explore the mysteries.
 - Congratualtions on making through the shell.
 
-
+-->
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 <!--
