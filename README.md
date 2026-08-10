@@ -23,13 +23,9 @@ My name is **Sergio Delúquez**, Computer Scientist Undergraduate Student at EAF
 
 <!-- Create a tabular data for blog posts-->
 ### ✔️ I'm currently learning
-- Quantitative analysis
 - Data engineering
-- Learning ML pipeline development
-- Exploring & evaluating different ML models
+- ML pipeline and model development
 - Implementing Monte Carlo & walk-forward testing
-- Training/testing on high-noise, low-signal data
-- Building robust validation workflows
 - Devops
 
 ### 💻 I'm working on
